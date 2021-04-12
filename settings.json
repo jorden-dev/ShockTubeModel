@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/jorden/anaconda3/bin/python",
+    "files.associations": {
+        "matrixops.h": "c"
+    }
+}
