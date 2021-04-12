@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Sod_shock_tube
 ### Case 1
 Variable | Left | Right
 ---------|------|------
-Pressure |$10^{5}$|$10^{4}$
+Pressure |10^{5}|10^{4}
 
 ### Case 2
 
