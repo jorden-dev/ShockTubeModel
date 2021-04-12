@@ -17,15 +17,15 @@ https://en.wikipedia.org/wiki/Sod_shock_tube
 - Solver start time, starttime
 - Solver end time, runtime
 ### Additional settings
--[] User designated postproccessing variables, e.g. Mach number, mass flow rate, entropy, etc.
--[] Read from input file
--[] Output data type
+- [ ] User designated postproccessing variables, e.g. Mach number, mass flow rate, entropy, etc.
+- [ ] Read from input file
+- [ ] Output data type
 
 ## Implemented Schemes
--[x] Central Difference
--[x] Lax-Wendroff
--[x] Van Leer Flux-Vector Splitting
--[x] MacCormack
+- [x] Central Difference
+- [x] Lax-Wendroff
+- [x] Van Leer Flux-Vector Splitting
+- [x] MacCormack
 
 ## Outputs
 ### Post-Processing
