@@ -6,7 +6,18 @@ https://en.wikipedia.org/wiki/Sod_shock_tube
 ### Case 1
 Variable | Left | Right
 ---------|------|------
-Pressure |10^{5}|10^{4}
+Pressure | 1E5 |1E4
+Density | 1.0 | 0.125
+Velocity | 0.0 | 0.0
+Time = 6.1E-4
+
+### Case 2
+Variable | Left | Right
+---------|------|------
+Pressure | 1E5 |1E3
+Density | 1.0 | 0.01
+Velocity | 0.0 | 0.0
+Time = 4.9E-4
 
 ### Case 2
 
