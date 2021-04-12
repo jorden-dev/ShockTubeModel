@@ -2,6 +2,14 @@
 CFD model for compressible 1D Shock Tube (SOD) implementing various schemes.
 https://en.wikipedia.org/wiki/Sod_shock_tube
 
+## Cases
+### Case 1
+Variable | Left | Right
+---------|------|------
+Pressure |$10^{5}$|$10^{4}
+
+### Case 2
+
 ## User Inputs
 ### Initial values for left and right side of the diaphragm.
 - Pressure, p_L and p_R
