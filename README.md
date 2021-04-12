@@ -39,6 +39,7 @@ Time = 4.9E-4
 - [ ] User designated postproccessing variables, e.g. Mach number, mass flow rate, entropy, etc.
 - [ ] Read from input file
 - [ ] Output data type
+- [ ] Output file name
 
 ## Implemented Schemes
 Explicit schemes:
