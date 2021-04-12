@@ -9,6 +9,7 @@ Variable | Left | Right
 Pressure | 1E5 |1E4
 Density | 1.0 | 0.125
 Velocity | 0.0 | 0.0
+
 Time = 6.1E-4
 
 ### Case 2
@@ -17,9 +18,8 @@ Variable | Left | Right
 Pressure | 1E5 |1E3
 Density | 1.0 | 0.01
 Velocity | 0.0 | 0.0
-Time = 4.9E-4
 
-### Case 2
+Time = 4.9E-4
 
 ## User Inputs
 ### Initial values for left and right side of the diaphragm.
@@ -51,4 +51,5 @@ Explicit schemes:
 ### Post-Processing
 Outputs pressure, entropy (approx.), velocity, Mach number, density, and mass flow rate.
 ### Data
-Data written to .csv for now.
+- [x] .csv
+- [ ] .dat
