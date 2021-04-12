@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/Sod_shock_tube
 - [ ] Output data type
 
 ## Implemented Schemes
+Explicit schemes:
 - [x] Central Difference
 - [x] Lax-Wendroff
 - [x] Van Leer Flux-Vector Splitting
